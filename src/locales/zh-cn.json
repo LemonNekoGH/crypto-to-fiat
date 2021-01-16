@@ -1,0 +1,16 @@
+{
+    "appBarTitle": "加密货币到法定货币转换工具",
+    "convert": "转换",
+    "selectCurrency": "选择货币",
+    "typeTheValue": "输入要转换的值",
+    "AR": "AR",
+    "USD": "美元(USD)",
+    "CNY": "人民币(CNY)",
+    "convertedValue": "转换后的值",
+    "removeTarget": "移除目标货币",
+    "addTarget": "添加目标货币",
+    "targetIsNotSelected": "没有选择目标货币",
+    "sourceIsNotSelected": "没有选择源货币",
+    "sourceIsEmpty": "原始值为空",
+    "converting": "正在进行转换"
+}

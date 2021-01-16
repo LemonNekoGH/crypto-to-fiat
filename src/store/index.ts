@@ -5,6 +5,13 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
+    cryptoCurrency: [
+        "AR"
+    ],
+    fiatCurrency: [
+        "USD",
+        "CNY"
+    ]
   },
   mutations: {
   },

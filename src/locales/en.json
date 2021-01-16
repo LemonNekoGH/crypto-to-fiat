@@ -1,0 +1,9 @@
+{
+  "appBarTitle": "Crypto To Fiat",
+  "convert": "Convert",
+  "selectCurrency": "Select",
+  "typeTheValue": "Enter the value to be converted",
+  "convertedValue": "Converted value",
+  "removeTarget": "remove",
+  "addTarget": "add"
+}
